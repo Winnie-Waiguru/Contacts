@@ -65,7 +65,7 @@
             android:textColor="@color/black"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.3"
+            app:layout_constraintHorizontal_bias="0.91"
             app:layout_constraintStart_toEndOf="@+id/imgContact"
             app:layout_constraintTop_toBottomOf="@+id/tvPhoneNum"
             tools:text="janedoe@gmail.com" />
